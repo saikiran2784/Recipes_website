@@ -37,11 +37,13 @@ This is a simple Recipe Website that allows users to search for their favorite r
 4. Close the recipe popup by clicking the close button.
 
 ## File Structure
+```
 recipe-website/
 │── index.html        # Main HTML file
 │── style.css         # Styling for the website
 │── script.js         # JavaScript logic for fetching and displaying recipes
 │── README.md         # Documentation
+```
 
 ## API Usage
 
